@@ -17,7 +17,6 @@ STEP-5: Display the cipher text obtained above.
 
 ## PROGRAM:
 #include<stdio.h>
-
 #include<string.h>
 #include<ctype.h>
 int main()
@@ -60,6 +59,7 @@ printf("%c", plain[i]);
 }
 plain[length] = '\0'; 
 }
+
 
 ## OUTPUT:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7642640d-ba7b-4f8a-9ec1-bb8a57a22b89" />
